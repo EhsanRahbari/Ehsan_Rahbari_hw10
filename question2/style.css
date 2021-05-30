@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+}
+.container1 {
+  /* display: flex;
+  justify-content: center; */
+  background-color: blue;
+  text-align: center;
+  height: 70px;
+  padding: 25px;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: x-large;
+  margin: 0 20px;
+}
+
+.container2 {
+  /* box-sizing: border-box; */
+  /* display: inline; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+/* .container3{
+        display: flex;
+        align-items: center;
+    }
+     */
+.sec2boxes {
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+  /* justify-content: center; */
+  background-color: gray;
+  width: 400px;
+  height: 250px;
+  margin: 0px 20px;
+  /* padding: 10px 10px; */
+  /* text-align: center; */
+  color: black;
+  font-size: large;
+}
+.ceneterdtext {
+  text-align: center;
+}
+.sec3boxes {
+  height: 200px;
+  width: 425px;
+  margin: 15px 10px;
+  padding: 75px;
+  font-size: large;
+}
+
+.color1 {
+  background-color: rgb(60, 138, 228);
+  color: white;
+}
+.color2 {
+  background-color: rgb(237, 181, 93);
+  color: white;
+}
+.color3 {
+  background-color: rgb(93, 231, 190);
+  color: white;
+}
+.color4 {
+  background-color: rgb(231, 93, 127);
+  color: white;
+}
+
